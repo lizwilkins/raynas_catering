@@ -1,0 +1,70 @@
+body                {color: #660066; background-color: #ffffff;
+					 font-style: italic; font-size: 15px;
+					 text-align: center;}
+
+a:link 				{color: #000000; text-decoration: none;}
+a:visited 			{color: #911113; text-decoration: none;}
+a:hover 			{color: #686868; text-decoration: none;}
+a:active 			{color: #6600ff; text-decoration: none;}
+
+#page               {position: absolute; left: 50%; 
+                     height: 640px; width: 960px; 
+                     padding: 0px; margin-left: -480px;
+                 	 background-image: url(images/background.gif);}
+                    
+#banner             {position: absolute; top: 5px; 
+                     height: 150px; width: 100%; 
+                     padding: 0px;}
+
+#logo               {left: 0px; 
+                     height: 116px; width: 100%; 
+                     padding: 0px; }
+
+#navbar             {height: 30px; width: 100%; 
+                     padding-top: 10px; margin: 0px;
+                 	 font-size: 20px;}
+                   
+#content            {position: absolute;
+					 top: 155px; left: 0px;
+					 width: 960px; height: 100%;
+                     padding: 0px; margin: 0px;}
+
+#text_box_tall     {position: absolute;
+					 padding: 0px; margin: 0px;
+					 width: 675px; left: 150px;
+					 height: 440px; top: 20px;
+                 	 /*background-color: #ffffff;*/
+                 	 overflow: auto; text-align: left;}
+
+#text_box_form     {position: absolute;
+					 padding: 0px; margin: 0px;
+					 width: 675px; left: 150px;
+					 height: 440px; top: 20px;
+                 	 /*background-color: #ffffff;*/
+                 	 overflow: auto; text-align: center;}                 	 
+
+#text_box_short     {position: absolute;
+					 padding: 0px; margin: 0px;
+					 width: 675px; left: 150px;
+					 height: 270px; top: 200px;
+                 	 /*background-color: #ffffff;*/
+                 	 overflow: auto; text-align: left;}
+
+#text_box     		{position: absolute;
+					padding: 0px; margin: 0px;
+					 width: 675px; left: 150px;
+					text-align: left;}
+
+.menu_table			{position: absolute; left: 40px; width: 100%;
+					 text-align: left; font-size: 20px;}
+
+#footer             {position:absolute;
+					 top: 600px; left: 0px; 
+                     height: 40px; width: 100%; 
+                     padding: 0px 0px 0px 0px; margin: 0px;
+                 	 background-color: #660066;
+                 	 color: #ffffff; }
+
+/*.menu_table td 		{width: 33%;
+					 vertical-align:bottom;}	*/ 
+

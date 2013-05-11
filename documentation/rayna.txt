@@ -1,0 +1,1999 @@
+﻿http://whois.domaintools.com/raynasgourmetcatering.com
+Registrant:
+ Raynas Gourmet Catering
+ 5665 Power Inn Road Suite 126
+ Sacramento, California 95824
+ US
+
+ Domain name: RAYNASGOURMETCATERING.COM
+
+ Administrative Contact:
+    Storelli, Linda  
+    5665 Power Inn Road Suite 126
+    Sacramento, California 95824
+    US
+    +1.9163837533
+ Technical Contact:
+    Storelli, Linda  
+    5665 Power Inn Road Suite 126
+    Sacramento, California 95824
+    US
+    +1.9163837533
+
+ Registration Service Provider:
+    Omsoft Technologies, 
+    530 758 0119
+    http://www.omsoft.com
+    This company may be contacted for domain login/passwords,
+    DNS/Nameserver changes, and general domain support questions.
+
+ Registrar of Record: TUCOWS, INC.
+ Record last updated on 16-Feb-2013.
+ Record expires on 08-Feb-2014.
+ Record created on 08-Feb-2002.
+
+ Registrar Domain Name Help Center:
+    http://tucowsdomains.com
+
+ Domain servers in listed order:
+    NS1.OMSOFT.COM   
+    NS2.OMSOFT.COM   
+
+ Domain status: ok
+
+---------------------------------------------------------------------------------------------------------
+
+<html>
+<head>
+<title>Rayna's Gourmet Catering</title>
+<meta http-equiv="Content-Type" content="text/html; charset=iso-8859-1">
+</head>
+ 
+<body bgcolor="#FFFFFF" background="backs/paper10.jpg">
+<center>
+  <table width="507" border="0" cellpadding="0" cellspacing="0">
+    <tr> 
+      <td><img src="top.gif" width="507" height="36"></td>
+    </tr>
+    <tr bgcolor="#FFFFFF"> 
+      <td height="81"><img src="wtraynas.jpg" width="507" height="116"></td>
+    </tr>
+    <tr bgcolor="#FFFFFF"> 
+      <td height="272"> 
+        <center>
+          <table width="507" border="0">
+            <tr> 
+              <td height="188" width="50%"> 
+                <p><img src="main1.jpg"></p>
+              </td>
+              <td height="188" width="50%"><img src="main2.jpg"></td>
+            </tr>
+            <tr> 
+              <td height="233" colspan="2"> 
+                <p align="center"><font color="#660066"><i>We invite you to experience 
+                  professional catering at it's finest!</i></font></p>
+                <p align="center"><i><font color="#660066"> Rayna's gourmet catering 
+                  has the resources to provide for you the best combination of 
+                  delicious food and exceptional service to ensure the success 
+                  of your wedding reception. Let us help you choose the perfect 
+                  full-service location within the greater Sacramento area for 
+                  your special occasion. </font></i></p>
+                <p align="center"><i><font color="#660066">Rayna's gourmet catering 
+                  offers a wide variety of menus' from elegant sit-down dinners 
+                  to elaborate buffets. We also provide complimentary corkage 
+                  and cake cutting. Remember we will perform all the detail work 
+                  so you can relax and enjoy your reception or celebration.</font></i></p>
+              </td>
+            </tr>
+          </table>
+          <font color="#660066"><b>Call Us at (916) 383-7533 </b></font> 
+        </center>
+        </td>
+    </tr>
+    <tr bgcolor="#FFFFFF">
+      <td height="2"><img src="navwt.jpg" width="504" height="36" border="0" usemap="#map1"></td>
+    </tr>
+    <tr> 
+      <td><img src="bottom.gif" width="507" height="36"></td>
+    </tr>
+  </table>
+</center>
+<map name="map1">
+  <area shape="rect" coords="370,12,447,27" href="contact.htm">
+  <area shape="rect" coords="314,11,366,28" href="events.htm">
+  <area shape="rect" coords="241,11,308,26" href="weddings.htm">
+  <area shape="rect" coords="184,11,238,29" href="menus.htm">
+  <area shape="rect" coords="112,10,176,28" href="aboutus.htm">
+  <area shape="rect" coords="54,6,106,29" href="home.htm">
+</map>
+</body>
+</html>
+---------------------------------------------------------------------------------------------
+<html>
+<head>
+<title>Rayna's Gourmet Catering</title>
+<meta http-equiv="Content-Type" content="text/html; charset=iso-8859-1">
+</head>
+ 
+<body bgcolor="#FFFFFF" background="backs/paper10.jpg">
+<center>
+  <table width="44%" border="0" cellpadding="0" cellspacing="0">
+    <tr> 
+      <td><img src="top.gif" width="507" height="36"></td>
+    </tr>
+    <tr bgcolor="#FFFFFF"> 
+      <td height="32"><img src="wtabout.jpg" width="507" height="116"></td>
+    </tr>
+    <tr bgcolor="#FFFFFF"> 
+      <td height="266"> 
+        <center>
+          <table width="85%" border="0">
+            <tr>
+              <td>
+                <div align="center"><img src="aboutpic.jpg" width="341" height="154"></div>
+              </td>
+          </tr>
+          <tr>
+              <td height="53"><i><font color="#660066">Rayna's Gourmet Catering 
+                is a full service catering company that specializes in catering 
+                as our main business. We have been servicing the catering needs 
+                of the Sacramento Area since 1985, focusing on gourmet quality 
+                foods, event planning, decorating, entertainment and superior 
+                service. Rayna's goal is to make your event memorable, effortless, 
+                and stress free.</font></i></td>
+          </tr>
+        </table></center>
+      </td>
+    </tr>
+    <tr bgcolor="#FFFFFF">
+      <td height="39"><img src="navwt.jpg" width="504" height="36" border="0" usemap="#map1"></td>
+    </tr>
+    <tr> 
+      <td><img src="bottom.gif" width="507" height="36"></td>
+    </tr>
+  </table>
+</center>
+<map name="map1">
+  <area shape="rect" coords="370,12,447,27" href="contact.htm">
+  <area shape="rect" coords="314,11,366,28" href="events.htm">
+  <area shape="rect" coords="241,11,308,26" href="weddings.htm">
+  <area shape="rect" coords="184,11,238,29" href="menus.htm">
+  <area shape="rect" coords="112,10,176,28" href="aboutus.htm">
+  <area shape="rect" coords="54,6,106,29" href="home.htm">
+</map>
+</body>
+</html>
+---------------------------------------------------------------------------------------------
+<html>
+<head>
+<title>Untitled Document</title>
+<meta http-equiv="Content-Type" content="text/html; charset=iso-8859-1">
+</head>
+ 
+<body bgcolor="#FFFFFF" background="backs/paper10.jpg">
+<center>
+  <table width="44%" border="0" cellpadding="0" cellspacing="0">
+    <tr> 
+      <td><img src="top.gif" width="507" height="36"></td>
+    </tr>
+    <tr bgcolor="#FFFFFF"> 
+      <td height="32"><img src="wtwedd.jpg" width="507" height="116"></td>
+    </tr>
+    <tr bgcolor="#FFFFFF"> 
+      <td height="174">
+               <center>
+          <table width="88%" border="0">
+            <tr> 
+              <td width="55%" height="298"> 
+                <p><i><font color="#660066">Dear Bride and Groom,</font></i></p>
+                <p><font color="#660066"><i>We invite you to experience professional 
+                  catering at its finest.</i></font></p>
+                <p><font color="#660066"><i>Rayna's Gourmet Catering has the resources 
+                  to provide you with the best combination to make sure that your 
+                  wedding reception is a success - delicious food and exceptional 
+                  service.</i></font></p>
+                <p>&nbsp;</p>
+                </td>
+              <td width="45%" height="298"><img src="buffet1.jpg" width="200" height="247"></td>
+            </tr>
+            <tr>
+              <td width="55%" height="179"><img src="event2.jpg"></td>
+              <td width="45%" height="179"> 
+                <p>&nbsp;</p>
+                <p><i><font color="#660066">Let Rayna's Gourmet Catering help 
+                  you select the perfect room or hall for your special event from 
+                  the finest full service facilities in the Greater Sacramento 
+                  Area.</font></i></p>
+                <p>&nbsp;</p>
+                </td>
+            </tr>
+            <tr>
+              <td width="55%"><i><font color="#660066">Rayna's Gourmet Catering 
+                invites you to enjoy the finest in custom catering cuisine prepared 
+                especially for your taste and budget. Let Rayna's Gourmet Catering 
+                perform the detail work so you can relax and enjoy your celebration 
+                and reception!</font></i></td>
+              <td width="45%" height="202">
+                <div align="right"><img src="wed3.jpg" width="180" height="270"> 
+                </div>
+              </td>
+            </tr>
+            <tr>
+              <td width="55%" height="188"> 
+                <div align="center"><img src="cake1.jpg"></div>
+              </td>
+              <td width="45%" height="188"> 
+                <p><i><font color="#660066">Rayna's Gourmet Catering offers a 
+                  wide variety of menus from sit-down to elaborate buffets.</font></i></p>
+                <p><font color="#660066"><i>Complimentary corkage and cake cutting. 
+                  Also, a free on site consultaion is provided for every couple. 
+                  Call us today to set up an appointment to discuss your upcoming 
+                  event!</i></font></p>
+              </td>
+            </tr>
+          </table>
+          <br>
+          <font color="#330066"><i><a href="links.htm">Other Wedding Sites</a></i></font> 
+        </center>
+ 
+        </td>
+    </tr>
+    <tr bgcolor="#FFFFFF">
+      <td height="39"><img src="navwt.jpg" width="504" height="36" border="0" usemap="#map1"></td>
+    </tr>
+    <tr> 
+      <td><img src="bottom.gif" width="507" height="36"></td>
+    </tr>
+  </table>
+</center>
+<map name="map1">
+  <area shape="rect" coords="370,12,447,27" href="contact.htm">
+  <area shape="rect" coords="314,11,366,28" href="events.htm">
+  <area shape="rect" coords="241,11,308,26" href="weddings.htm">
+  <area shape="rect" coords="184,11,238,29" href="menus.htm">
+  <area shape="rect" coords="112,10,176,28" href="aboutus.htm">
+  <area shape="rect" coords="54,6,106,29" href="home.htm">
+</map>
+</body>
+</html>
+
+
+---------------------------------------------------------------------------------------------
+<!DOCTYPE HTML PUBLIC "-//W3C//DTD HTML 4.0 Transitional//EN">
+<HTML><HEAD><TITLE>Untitled Document</TITLE>
+<META http-equiv=Content-Type content="text/html; charset=iso-8859-1">
+<META content="MSHTML 6.00.2600.0" name=GENERATOR></HEAD>
+<BODY bgColor=#ffffff background="backs/paper10.jpg">
+<CENTER>
+<TABLE cellSpacing=0 cellPadding=0 width="44%" border=0>
+  <TBODY>
+  <TR>
+    <TD><IMG height=36 src="links_files/top.gif" width=507></TD></TR>
+  <TR bgColor=#ffffff>
+    <TD height=32><IMG height=116 src="links_files/wtwedd.jpg" 
+width=507></TD></TR>
+  <TR bgColor=#ffffff>
+    <TD height=174>
+      <CENTER><BR></CENTER>
+      <CENTER>
+          <p><A href="http://www.affairnet.com/" target="_blank"><IMG height=50 alt=Affairnet 
+      src="links_files/logosmw.gif" width=165 border=0></A> </p>
+          <p><a href="http://www.villagecakeshoppe.com">www.villagecakeshoppe.com</a></p>
+          <p><a href="http://www.sacbride.com">www.sacbride.com</a></p>
+          <p><a href="http://www.sultanidesigns.com" target="_blank">Site Design 
+            By <br>
+            www.sultanidesigns.com</a></p>
+          <p><i><font color="#660066">More coming soon.....</font></i></p>
+        </CENTER></TD></TR>
+  <TR bgColor=#ffffff>
+      <TD height=39><IMG height=36 src="links_files/navwt.jpg" width=504 
+      useMap=#map1 border=0></TD>
+    </TR>
+  <TR>
+    <TD><IMG height=36 src="links_files/bottom.gif" 
+width=507></TD></TR></TBODY></TABLE></CENTER>
+<MAP name=map1>
+  <AREA shape=RECT 
+  coords=370,12,447,27 href="contact.htm">
+  <AREA 
+  shape=RECT coords=314,11,366,28 
+  href="events.htm">
+  <AREA shape=RECT 
+  coords=241,10,308,25 
+  href="weddings.htm">
+  <AREA shape=RECT 
+  coords=184,11,238,29 href="menus.htm">
+  <AREA 
+  shape=RECT coords=112,10,176,28 
+  href="aboutus.htm">
+  <AREA shape=RECT 
+  coords=54,6,106,29 
+href="home.htm">
+</MAP></BODY></HTML>
+
+
+---------------------------------------------------------------------------------------------
+<html>
+<head>
+<title>Untitled Document</title>
+<meta http-equiv="Content-Type" content="text/html; charset=iso-8859-1">
+</head>
+ 
+<body bgcolor="#FFFFFF" background="backs/paper10.jpg">
+<center>
+  <table width="44%" border="0" cellpadding="0" cellspacing="0">
+    <tr> 
+      <td><img src="top.gif" width="507" height="36"></td>
+    </tr>
+    <tr bgcolor="#FFFFFF"> 
+      <td height="32"><img src="wtevents.jpg" width="507" height="116"></td>
+    </tr>
+    <tr bgcolor="#FFFFFF"> 
+      <td height="854"> 
+        <center>
+          <table width="90%" border="0">
+            <tr> 
+              <td width="45%" height="223"> 
+                <div align="center"> 
+                  <p><img src="barbque.jpg" width="351" height="212"></p>
+                </div>
+              </td>
+            </tr>
+            <tr> 
+              <td width="45%" height="309"> 
+                <p align="left"><font color="#660066"><i>Rayna's offers a variety 
+                  of menu selections from our international cuisine to working 
+                  lunches, bar-b-cues, wedding receptions and multiple course, 
+                  formal sit down dinners. Rayna's Gourmet Catering provides quality 
+                  catering for every occasion.</i></font></p>
+                <p align="left"><i><font color="#660066">Some of our complimentary 
+                  services include buffet table decorations, floral arrangements 
+                  and skirting, coffee, lemonade, reserve seating and linen for 
+                  buffet and cake tables.</font></i></p>
+                <p align="left"><i><font color="#660066">Our chef, event supervisor, 
+                  attendants and support staff are professional, courteous and 
+                  focused on making your event truly memorable.</font></i></p>
+                <p align="left"><i><font color="#660066">Whether you need a backyard 
+                  bar-b-cue for 50 guests or a feast for 5,000, we can meet and 
+                  exceed your needs and expectations.</font></i></p>
+                <p align="left"><i><font color="#660066">Call today and set up 
+                  an appointment to discuss your upcoming event! </font></i></p>
+              </td>
+            </tr>
+            <tr>
+              <td width="45%" height="193">
+                <div align="center"><img src="kings.jpg" width="274" height="220"></div>
+              </td>
+            </tr>
+          </table>
+        </center>
+      </td>
+    </tr>
+    <tr bgcolor="#FFFFFF">
+      <td height="39"><img src="navwt.jpg" width="504" height="36" border="0" usemap="#map1"></td>
+    </tr>
+    <tr> 
+      <td><img src="bottom.gif" width="507" height="36"></td>
+    </tr>
+  </table>
+</center>
+<map name="map1">
+  <area shape="rect" coords="370,12,447,27" href="contact.htm">
+  <area shape="rect" coords="314,11,366,28" href="events.htm">
+  <area shape="rect" coords="241,11,308,26" href="weddings.htm">
+  <area shape="rect" coords="184,11,238,29" href="menus.htm">
+  <area shape="rect" coords="112,10,176,28" href="aboutus.htm">
+  <area shape="rect" coords="54,6,106,29" href="home.htm">
+</map>
+</body>
+</html>
+
+---------------------------------------------------------------------------------------------
+<html>
+<head>
+<title>Untitled Document</title>
+<meta http-equiv="Content-Type" content="text/html; charset=iso-8859-1">
+</head>
+ 
+<body bgcolor="#FFFFFF" background="backs/paper10.jpg">
+<center>
+  <table width="44%" border="0" cellpadding="0" cellspacing="0">
+    <tr> 
+      <td><img src="top.gif" width="507" height="36"></td>
+    </tr>
+    <tr bgcolor="#FFFFFF"> 
+      <td height="32"><img src="wtcontact.jpg" width="507" height="116"></td>
+    </tr>
+    <tr bgcolor="#FFFFFF"> 
+      <td>
+        <div align="center"><img src="contpic.jpg" width="198" height="253"> </div>
+      </td>
+</tr>
+    <tr bgcolor="#FFFFFF"> 
+      <td height="174"> 
+        <table width="501" border="1" cellpadding="1" bordercolor="#FFFFFF">
+          <tr bgcolor="#FFFFFF"> 
+            <td> 
+              <form action="http://www.omsoft.com/cgi-bin/formmail.pl" method="post">
+                <font color="#FFFFFF"> 
+                <input type="hidden" name="RECIPIENT" value="raynasgourmetcatering@yahoo.com">
+                <input type="hidden" name="SUBJECT" value="Raynas Catering Request">
+                <input type="hidden" name="FROM" value="raynasgourmetcatering@yahoo.com">
+                <input type="hidden" name="REDIRECT" value="http://www.raynasgourmetcatering.com/thanks.htm">
+                </font> 
+                <p><font size="-1" color="#FFFFFF"><b><font color="#660066">How 
+                  Many Guests are Attending:</font> 
+                  <input type="text" name="guests" size="4">
+                  </b><br>
+                  </font></p>
+                <p><font size="-1" color="#FFFFFF"> <b><font color="#660066">If 
+                  you have a location, where is it?:</font></b> 
+                  <input type="text" name="eventlocation">
+                  <br>
+                  <br>
+                  </font></p>
+                <p><font size="-1" color="#FFFFFF"><b><font color="#660066">Comments</font></b></font><font color="#660066"><b>:</b></font> 
+                  <font size="-1" color="#660066">The more details the better, 
+                  such as time of wedding, etc.</font></p>
+                <p> <font color="#FFFFFF"> 
+                  <textarea name="comments" cols="35" rows="6"></textarea>
+                  </font></p>
+                <p><font color="#FFFFFF"><b><font color="#660066">Wedding Date:</font></b> 
+                  &nbsp;&nbsp;&nbsp; 
+                  <input type="text" name="weddate" size="40">
+                  <b></b></font></p>
+                <p><font color="#FFFFFF"><b><font color="#660066">Name: </font></b> 
+                  &nbsp;&nbsp;&nbsp; 
+                  <input type="text" name="aname" size="40">
+                  <b><br>
+                  <br>
+                  <font color="#660066">Address:</font> </b> 
+                  <input type="text" name="address" size="40">
+                  <br>
+                  <br>
+                  <b><font color="#660066">City:</font> &nbsp;</b>&nbsp;&nbsp;&nbsp;&nbsp; 
+                  <input type="text" name="city" size="20">
+                  <b> <font color="#660066">State/Prov:</font></b><font color="#660066">&nbsp;</font>&nbsp; 
+                  <input type="text" name="state" size="4">
+                  &nbsp;&nbsp;</font></p>
+                <p><font color="#FFFFFF"> <b><font color="#660066">Zip/Post Code:</font> 
+                  </b> 
+                  <input type="text" name="zipcode" size="12">
+                  <br>
+                  <br>
+                  <b><font color="#660066">Phone:</font></b> 
+                  <input type="text" name="phone" size="20">
+                  <br>
+                  <br>
+                  <b><font color="#660066">E-mail:</font> </b> </font> <font color="#FFFFFF"> 
+                  <input type="text" name="email" size="25">
+                  </font></p>
+                <p>&nbsp;</p>
+                <p> 
+                  <input type="submit" name="Submit" value="Submit">
+                  &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; 
+                  <input type="reset" name="Reset" value="Reset">
+                </p>
+              </form>
+              <p align="left">&nbsp;</p>
+            </td>
+          </tr>
+          <tr bgcolor="#FFFFFF">
+            <td height="11">&nbsp;</td>
+          </tr>
+        </table>
+      </td>
+    </tr>
+    <tr bgcolor="#FFFFFF">
+      <td height="39"><img src="navwt.jpg" width="504" height="36" border="0" usemap="#map1"></td>
+    </tr>
+    <tr> 
+      <td><img src="bottom.gif" width="507" height="36"></td>
+    </tr>
+  </table>
+</center>
+<map name="map1">
+  <area shape="rect" coords="369,9,446,26" href="contact.htm">
+  <area shape="rect" coords="315,9,362,30" href="events.htm">
+  <area shape="rect" coords="241,10,305,30" href="weddings.htm">
+  <area shape="rect" coords="185,12,236,28" href="menus.htm">
+  <area shape="rect" coords="112,10,174,29" href="aboutus.htm">
+  <area shape="rect" coords="53,9,104,28" href="home.htm">
+</map>
+</body>
+</html>
+
+---------------------------------------------------------------------------------------------
+
+<html>
+<head>
+<title>Untitled Document</title>
+<meta http-equiv="Content-Type" content="text/html; charset=iso-8859-1">
+</head>
+ 
+<body bgcolor="#FFFFFF" background="backs/paper10.jpg" alink="#660066" text="#660066" link="#660066" vlink="#660066">
+<center>
+  <table width="507" border="0" cellpadding="0" cellspacing="0">
+    <tr> 
+      <td><img src="top.gif" width="507" height="36"></td>
+    </tr>
+    <tr bgcolor="#FFFFFF"> 
+      <td height="32"><img src="wtmenu.jpg" width="507" height="116"></td>
+    </tr>
+    <tr bgcolor="#FFFFFF"> 
+      <td height="174"> 
+        <center>
+          <table width="92%" border="0">
+            <tr> 
+              <td colspan="2"> 
+                <div align="center"><img src="menuspic.jpg"></div>
+              </td>
+            </tr>
+            <tr> 
+              <td height="46" width="228"> 
+                <p><b><font color="#660033"><u><font face="Times New Roman, Times, serif"><a href="vegee1.htm">Vegetarian 
+                  Dinners </a></font></u></font></b></p>
+                <p><b><u><font face="Times New Roman, Times, serif" color="#660033"><a href="createc.htm">Create 
+                  Your Own<br>
+                  Cocktail Party</a><br>
+                  </font></u></b></p>
+                <p><b><u><font face="Times New Roman, Times, serif" color="#660033"><a href="cockdin.htm">Cocktail 
+                  Dinner Menus</a></font></u></b></p>
+                <p><b><u><font face="Times New Roman, Times, serif" color="#660033"><a href="internmen.htm">Sit 
+                  Down International Menu</a></font></u></b></p>
+                <p><b><u><font color="#660033"><a href="ligdinbuf.htm">Light Dinner 
+                  Buffet Menu</a></font></u></b></p>
+                <p><b><u><font color="#660033"><a href="addons.htm">Add On Items</a></font></u></b></p>
+                </td>
+              <td height="46" width="228">
+                <p><b><font color="#660033"><u><a href="italcoct.htm"><br>
+                  Italian Cocktail Buffet Menus</a></u></font></b></p>
+                <p><b><u><font color="#660033"><a href="italdin.htm">Italian Dinner 
+                  Buffet Menus</a></font></u></b></p>
+                <p><b><u><font color="#660033"><a href="itwedbuf.htm">Italian 
+                  Wedding Buffet Menu</a></font></u></b></p>
+                <p><b><u><font color="#660033"><a href="thwedbuf.htm">The Wedding 
+                  Buffet Menu</a></font></u></b></p>
+                <p><b><u><font color="#660033"><a href="wedcoct.htm">Wedding Cocktail 
+                  Buffet</a></font></u></b></p>
+                <p><b><u><font color="#660033"><a href="wedeleg.htm">Wedding of 
+                  Elegance</a></font></u></b></p>
+                <p>&nbsp;</p>
+              </td>
+            </tr>
+          </table>
+          <p>&nbsp;</p>
+        </center>
+      </td>
+    </tr>
+    <tr bgcolor="#FFFFFF">
+      <td height="39"><img src="navwt.jpg" width="504" height="36" border="0" usemap="#map1"></td>
+    </tr>
+    <tr> 
+      <td><img src="bottom.gif" width="507" height="36"></td>
+    </tr>
+  </table>
+</center>
+<map name="map1">
+  <area shape="rect" coords="370,12,447,27" href="contact.htm">
+  <area shape="rect" coords="314,11,366,28" href="events.htm">
+  <area shape="rect" coords="241,11,308,26" href="weddings.htm">
+  <area shape="rect" coords="184,11,238,29" href="menus.htm">
+  <area shape="rect" coords="112,10,176,28" href="aboutus.htm">
+  <area shape="rect" coords="54,6,106,29" href="home.htm">
+</map>
+</body>
+</html>
+
+---------------------------------------------------------------------------------------------
+
+<html>
+<head>
+<title>VEGETARIAN DINNER</title>
+<meta http-equiv="Content-Type" content="text/html; charset=iso-8859-1">
+<meta http-equiv=Content-Type content="text/html; charset=windows-1252">
+<meta name=ProgId content=Word.Document>
+<meta name=Generator content="Microsoft Word 9">
+<meta name=Originator content="Microsoft Word 9">
+<link rel=File-List href="./VEGETARIAN%20DINNER%20menu_files/filelist.xml">
+<!--[if gte mso 9]><xml>
+ <o:DocumentProperties>
+  <o:Author>Compaq</o:Author>
+  <o:LastAuthor>Trisha Julian Dean</o:LastAuthor>
+  <o:Revision>2</o:Revision>
+  <o:TotalTime>45</o:TotalTime>
+  <o:LastPrinted>2001-08-30T18:53:00Z</o:LastPrinted>
+  <o:Created>2002-02-21T06:40:00Z</o:Created>
+  <o:LastSaved>2002-02-21T06:40:00Z</o:LastSaved>
+  <o:Pages>1</o:Pages>
+  <o:Words>170</o:Words>
+  <o:Characters>972</o:Characters>
+  <o:Company>Compaq</o:Company>
+  <o:Lines>8</o:Lines>
+  <o:Paragraphs>1</o:Paragraphs>
+  <o:CharactersWithSpaces>1193</o:CharactersWithSpaces>
+  <o:Version>9.3821</o:Version>
+ </o:DocumentProperties>
+</xml><![endif]--><!--[if gte mso 9]><xml>
+ <w:WordDocument>
+  <w:DisplayHorizontalDrawingGridEvery>0</w:DisplayHorizontalDrawingGridEvery>
+  <w:DisplayVerticalDrawingGridEvery>0</w:DisplayVerticalDrawingGridEvery>
+  <w:UseMarginsForDrawingGridOrigin/>
+  <w:Compatibility>
+   <w:FootnoteLayoutLikeWW8/>
+   <w:ShapeLayoutLikeWW8/>
+   <w:AlignTablesRowByRow/>
+   <w:ForgetLastTabAlignment/>
+   <w:LayoutRawTableWidth/>
+   <w:LayoutTableRowsApart/>
+  </w:Compatibility>
+ </w:WordDocument>
+</xml><![endif]--> 
+<style> 
+<!--
+ /* Style Definitions */
+p.MsoNormal, li.MsoNormal, div.MsoNormal
+	{mso-style-parent:"";
+	margin:0in;
+	margin-bottom:.0001pt;
+	mso-pagination:widow-orphan;
+	font-size:10.0pt;
+	font-family:"Times New Roman";
+	mso-fareast-font-family:"Times New Roman";}
+h1
+	{mso-style-next:Normal;
+	margin:0in;
+	margin-bottom:.0001pt;
+	mso-pagination:widow-orphan;
+	page-break-after:avoid;
+	mso-outline-level:1;
+	font-size:10.0pt;
+	font-family:"Times New Roman";
+	mso-font-kerning:0pt;
+	mso-bidi-font-weight:normal;}
+h2
+	{mso-style-next:Normal;
+	margin:0in;
+	margin-bottom:.0001pt;
+	text-align:center;
+	mso-pagination:widow-orphan;
+	page-break-after:avoid;
+	mso-outline-level:2;
+	font-size:14.0pt;
+	mso-bidi-font-size:10.0pt;
+	font-family:"Times New Roman";
+	mso-bidi-font-weight:normal;
+	font-style:italic;
+	mso-bidi-font-style:normal;}
+h3
+	{mso-style-next:Normal;
+	margin:0in;
+	margin-bottom:.0001pt;
+	text-align:center;
+	mso-pagination:widow-orphan;
+	page-break-after:avoid;
+	mso-outline-level:3;
+	font-size:12.0pt;
+	mso-bidi-font-size:10.0pt;
+	font-family:"Times New Roman";
+	mso-bidi-font-weight:normal;
+	font-style:italic;
+	mso-bidi-font-style:normal;}
+p.MsoTitle, li.MsoTitle, div.MsoTitle
+	{margin:0in;
+	margin-bottom:.0001pt;
+	text-align:center;
+	mso-pagination:widow-orphan;
+	font-size:18.0pt;
+	mso-bidi-font-size:10.0pt;
+	font-family:"Times New Roman";
+	mso-fareast-font-family:"Times New Roman";
+	font-weight:bold;
+	mso-bidi-font-weight:normal;
+	font-style:italic;
+	mso-bidi-font-style:normal;
+	text-decoration:underline;
+	text-underline:single;}
+p.MsoSubtitle, li.MsoSubtitle, div.MsoSubtitle
+	{margin:0in;
+	margin-bottom:.0001pt;
+	text-align:center;
+	mso-pagination:widow-orphan;
+	font-size:14.0pt;
+	mso-bidi-font-size:10.0pt;
+	font-family:"Times New Roman";
+	mso-fareast-font-family:"Times New Roman";
+	font-weight:bold;
+	mso-bidi-font-weight:normal;
+	font-style:italic;
+	mso-bidi-font-style:normal;}
+@page Section1
+	{size:8.5in 11.0in;
+	margin:1.0in 1.25in 1.0in 1.25in;
+	mso-header-margin:.5in;
+	mso-footer-margin:.5in;
+	mso-paper-source:0;}
+div.Section1
+	{page:Section1;}
+-->
+</style>
+<meta http-equiv=Content-Type content="text/html; charset=windows-1252">
+<meta name=ProgId content=Word.Document>
+<meta name=Generator content="Microsoft Word 9">
+<meta name=Originator content="Microsoft Word 9">
+<link rel=File-List href="./VEGETARIAN%20DINNER%20menu_files/filelist.xml">
+<!--[if gte mso 9]><xml>
+ <o:DocumentProperties>
+  <o:Author>Compaq</o:Author>
+  <o:LastAuthor>Trisha Julian Dean</o:LastAuthor>
+  <o:Revision>3</o:Revision>
+  <o:TotalTime>45</o:TotalTime>
+  <o:LastPrinted>2001-08-30T18:53:00Z</o:LastPrinted>
+  <o:Created>2002-02-22T05:07:00Z</o:Created>
+  <o:LastSaved>2002-02-22T05:08:00Z</o:LastSaved>
+  <o:Pages>1</o:Pages>
+  <o:Words>170</o:Words>
+  <o:Characters>972</o:Characters>
+  <o:Company>Compaq</o:Company>
+  <o:Lines>8</o:Lines>
+  <o:Paragraphs>1</o:Paragraphs>
+  <o:CharactersWithSpaces>1193</o:CharactersWithSpaces>
+  <o:Version>9.3821</o:Version>
+ </o:DocumentProperties>
+</xml><![endif]--><!--[if gte mso 9]><xml>
+ <w:WordDocument>
+  <w:DisplayHorizontalDrawingGridEvery>0</w:DisplayHorizontalDrawingGridEvery>
+  <w:DisplayVerticalDrawingGridEvery>0</w:DisplayVerticalDrawingGridEvery>
+  <w:UseMarginsForDrawingGridOrigin/>
+  <w:Compatibility>
+   <w:FootnoteLayoutLikeWW8/>
+   <w:ShapeLayoutLikeWW8/>
+   <w:AlignTablesRowByRow/>
+   <w:ForgetLastTabAlignment/>
+   <w:LayoutRawTableWidth/>
+   <w:LayoutTableRowsApart/>
+  </w:Compatibility>
+ </w:WordDocument>
+</xml><![endif]--> 
+<style> 
+<!--
+ /* Style Definitions */
+p.MsoNormal, li.MsoNormal, div.MsoNormal
+	{mso-style-parent:"";
+	margin:0in;
+	margin-bottom:.0001pt;
+	mso-pagination:widow-orphan;
+	font-size:10.0pt;
+	font-family:"Times New Roman";
+	mso-fareast-font-family:"Times New Roman";}
+h1
+	{mso-style-next:Normal;
+	margin:0in;
+	margin-bottom:.0001pt;
+	mso-pagination:widow-orphan;
+	page-break-after:avoid;
+	mso-outline-level:1;
+	font-size:10.0pt;
+	font-family:"Times New Roman";
+	mso-font-kerning:0pt;
+	mso-bidi-font-weight:normal;}
+h2
+	{mso-style-next:Normal;
+	margin:0in;
+	margin-bottom:.0001pt;
+	text-align:center;
+	mso-pagination:widow-orphan;
+	page-break-after:avoid;
+	mso-outline-level:2;
+	font-size:14.0pt;
+	mso-bidi-font-size:10.0pt;
+	font-family:"Times New Roman";
+	mso-bidi-font-weight:normal;
+	font-style:italic;
+	mso-bidi-font-style:normal;}
+h3
+	{mso-style-next:Normal;
+	margin:0in;
+	margin-bottom:.0001pt;
+	text-align:center;
+	mso-pagination:widow-orphan;
+	page-break-after:avoid;
+	mso-outline-level:3;
+	font-size:12.0pt;
+	mso-bidi-font-size:10.0pt;
+	font-family:"Times New Roman";
+	mso-bidi-font-weight:normal;
+	font-style:italic;
+	mso-bidi-font-style:normal;}
+p.MsoTitle, li.MsoTitle, div.MsoTitle
+	{margin:0in;
+	margin-bottom:.0001pt;
+	text-align:center;
+	mso-pagination:widow-orphan;
+	font-size:18.0pt;
+	mso-bidi-font-size:10.0pt;
+	font-family:"Times New Roman";
+	mso-fareast-font-family:"Times New Roman";
+	font-weight:bold;
+	mso-bidi-font-weight:normal;
+	font-style:italic;
+	mso-bidi-font-style:normal;
+	text-decoration:underline;
+	text-underline:single;}
+p.MsoSubtitle, li.MsoSubtitle, div.MsoSubtitle
+	{margin:0in;
+	margin-bottom:.0001pt;
+	text-align:center;
+	mso-pagination:widow-orphan;
+	font-size:14.0pt;
+	mso-bidi-font-size:10.0pt;
+	font-family:"Times New Roman";
+	mso-fareast-font-family:"Times New Roman";
+	font-weight:bold;
+	mso-bidi-font-weight:normal;
+	font-style:italic;
+	mso-bidi-font-style:normal;}
+@page Section1
+	{size:8.5in 11.0in;
+	margin:1.0in 1.25in 1.0in 1.25in;
+	mso-header-margin:.5in;
+	mso-footer-margin:.5in;
+	mso-paper-source:0;}
+div.Section1
+	{page:Section1;}
+-->
+</style>
+</head>
+ 
+<body bgcolor="#FFFFFF" background="backs/paper10.jpg" alink="#660066" text="#660066" link="#660066" vlink="#660066" lang="EN-US" style="tab-interval:.5in">
+<center>
+  <table width="84%" border="0" cellpadding="0" cellspacing="0">
+    <tr bgcolor="#FFFFFF"> 
+      <td height="18">&nbsp;</td>
+    </tr>
+    <tr bgcolor="#FFFFFF"> 
+      <td height="70"> 
+        <div align="center"><img src="gourmet1.jpg" width="507" height="54"></div>
+      </td>
+    </tr>
+    <tr bgcolor="#FFFFFF"> 
+      <td height="174"> 
+        <center>
+          <table width="98%" border="0">
+            <tr>
+              <td>
+                <div class=Section1> 
+                  <p class=MsoTitle>INTERNATIONAL SITDOWN </p>
+                  <p class=MsoTitle><span style='font-size:14.0pt;mso-bidi-font-size:10.0pt;
+font-weight:normal;text-decoration:none;text-underline:none'>VEGETARIAN DINNERS<o:p></o:p></span></p>
+                  <p class=MsoSubtitle><![if !supportEmptyParas]>&nbsp;<![endif]><o:p></o:p></p>
+                  <p class=MsoSubtitle>ITALIAN</p>
+                  <p class=MsoSubtitle><![if !supportEmptyParas]>&nbsp;<![endif]><o:p></o:p></p>
+                  <h1 align=center style='text-align:center'><i style='mso-bidi-font-style:normal'><span
+style='font-size:12.0pt;mso-bidi-font-size:10.0pt'>Marinated Salad<o:p></o:p></span></i></h1>
+                  <p class=MsoNormal align=center style='text-align:center'><i style='mso-bidi-font-style:
+normal'><span style='font-size:12.0pt;mso-bidi-font-size:10.0pt'>Feta, Basil, 
+                    Cucumber, Onion, Tomato with Balsamic Vinaigrette<o:p></o:p></span></i></p>
+                  <p class=MsoNormal align=center style='text-align:center'><b style='mso-bidi-font-weight:
+normal'><i style='mso-bidi-font-style:normal'><span style='font-size:12.0pt;
+mso-bidi-font-size:10.0pt'>Focaccia</span></i></b><i style='mso-bidi-font-style:
+normal'><span style='font-size:12.0pt;mso-bidi-font-size:10.0pt'> with Balsamic 
+                    Olive Oil, Roasted Garlic and Rosemary</span></i></p>
+                  <p class=MsoNormal align=center style='text-align:center'><b style='mso-bidi-font-weight:
+normal'><i style='mso-bidi-font-style:normal'><span style='font-size:12.0pt;
+mso-bidi-font-size:10.0pt'>Italian Tossed Green Salad</span></i></b><i
+style='mso-bidi-font-style:normal'><span style='font-size:12.0pt;mso-bidi-font-size:
+10.0pt'> with Roasted Garlic Dressing<o:p></o:p></span></i></p>
+                  <p class=MsoNormal><i style='mso-bidi-font-style:normal'><span
+style='font-size:12.0pt;mso-bidi-font-size:10.0pt'><![if !supportEmptyParas]>&nbsp;<![endif]><o:p></o:p></span></i></p>
+                  <p class=MsoNormal align=center style='text-align:center'><i style='mso-bidi-font-style:
+normal'><span style='font-size:12.0pt;mso-bidi-font-size:10.0pt'>(select two items)<o:p></o:p></span></i></p>
+                  <h3>Lasagna </h3>
+                  <p class=MsoNormal align=center style='text-align:center'><b style='mso-bidi-font-weight:
+normal'><i style='mso-bidi-font-style:normal'><span style='font-size:12.0pt;
+mso-bidi-font-size:10.0pt'>Italian Tower</span></i></b><i style='mso-bidi-font-style:
+normal'><span style='font-size:12.0pt;mso-bidi-font-size:10.0pt'> Breaded Grilled 
+                    Eggplant with Pesto, Marinara and Polenta<o:p></o:p></span></i></p>
+                  <p class=MsoNormal align=center style='text-align:center'><b style='mso-bidi-font-weight:
+normal'><i style='mso-bidi-font-style:normal'><span style='font-size:12.0pt;
+mso-bidi-font-size:10.0pt'>Roasted Angel Hair Pasta</span></i></b><i
+style='mso-bidi-font-style:normal'><span style='font-size:12.0pt;mso-bidi-font-size:
+10.0pt'> Angel Hair Pasta Served with Roasted Garlic and Olive Oil<o:p></o:p></span></i></p>
+                  <p class=MsoNormal align=center style='text-align:center'><b style='mso-bidi-font-weight:
+normal'><i style='mso-bidi-font-style:normal'><span style='font-size:12.0pt;
+mso-bidi-font-size:10.0pt'>Raynas Stuffed Breads</span></i></b><i
+style='mso-bidi-font-style:normal'><span style='font-size:12.0pt;mso-bidi-font-size:
+10.0pt'> Round Sourdough Loafs with Vegetable Pesto,<o:p></o:p></span></i></p>
+                  <p class=MsoNormal align=center style='text-align:center'><i style='mso-bidi-font-style:
+normal'><span style='font-size:12.0pt;mso-bidi-font-size:10.0pt'>Marinara, and 
+                    Alfredo<o:p></o:p></span></i></p>
+                  <p class=MsoNormal align=center style='text-align:center'><![if !supportEmptyParas]>&nbsp;<![endif]><o:p></o:p></p>
+                  <p class=MsoNormal align=center style='text-align:center'><![if !supportEmptyParas]>&nbsp;<![endif]><o:p></o:p></p>
+                  <h2>MEXICAN</h2>
+                  <p class=MsoNormal><![if !supportEmptyParas]>&nbsp;<![endif]><o:p></o:p></p>
+                  <p class=MsoNormal align=center style='text-align:center'><b style='mso-bidi-font-weight:
+normal'><i style='mso-bidi-font-style:normal'><span style='font-size:12.0pt;
+mso-bidi-font-size:10.0pt'>Mexican Style Tossed Green Salad</span></i></b><i
+style='mso-bidi-font-style:normal'><span style='font-size:12.0pt;mso-bidi-font-size:
+10.0pt'> with Tortilla Chips, Olives, Kindney Beans, Parmesan, <o:p></o:p></span></i></p>
+                  <p class=MsoNormal align=center style='text-align:center'><i style='mso-bidi-font-style:
+normal'><span style='font-size:12.0pt;mso-bidi-font-size:10.0pt'>and a Cream and 
+                    Spice Mexican Dressing<o:p></o:p></span></i></p>
+                  <p class=MsoNormal align=center style='text-align:center'><b style='mso-bidi-font-weight:
+normal'><i style='mso-bidi-font-style:normal'><span style='font-size:12.0pt;
+mso-bidi-font-size:10.0pt'>Mexican Crostini</span></i></b><i style='mso-bidi-font-style:
+normal'><span style='font-size:12.0pt;mso-bidi-font-size:10.0pt'> Two Cheeses, 
+                    Cumin, Black Olives and Green Onions<o:p></o:p></span></i></p>
+                  <p class=MsoNormal align=center style='text-align:center'><b style='mso-bidi-font-weight:
+normal'><i style='mso-bidi-font-style:normal'><span style='font-size:12.0pt;
+mso-bidi-font-size:10.0pt'>Nacho Bar</span></i></b><i style='mso-bidi-font-style:
+normal'><span style='font-size:12.0pt;mso-bidi-font-size:10.0pt'> Cheese, Onions, 
+                    Salsa, Olives, Sour Cream, and Guacamole<o:p></o:p></span></i></p>
+                  <h3>Cheese Enchiladas </h3>
+                  <p class=MsoNormal align=center style='text-align:center'><b style='mso-bidi-font-weight:
+normal'><i style='mso-bidi-font-style:normal'><span style='font-size:12.0pt;
+mso-bidi-font-size:10.0pt'>Tofu Tacos<o:p></o:p></span></i></b></p>
+                  <h1 align=center style='text-align:center'><i style='mso-bidi-font-style:normal'><span
+style='font-size:12.0pt;mso-bidi-font-size:10.0pt'><![if !supportEmptyParas]>&nbsp;<![endif]><o:p></o:p></span></i></h1>
+                  <p class=MsoNormal><![if !supportEmptyParas]>&nbsp;<![endif]><o:p></o:p></p>
+                  <h2>GREEK</h2>
+                  <p class=MsoNormal><![if !supportEmptyParas]>&nbsp;<![endif]><o:p></o:p></p>
+                  <p class=MsoNormal align=center style='text-align:center'><b style='mso-bidi-font-weight:
+normal'><i style='mso-bidi-font-style:normal'><span style='font-size:12.0pt;
+mso-bidi-font-size:10.0pt'>Greek Tossed Salad</span></i></b><i
+style='mso-bidi-font-style:normal'><span style='font-size:12.0pt;mso-bidi-font-size:
+10.0pt'> with Feta, Cucumber, Red Onion, and Tomato<o:p></o:p></span></i></p>
+                  <p class=MsoNormal align=center style='text-align:center'><b style='mso-bidi-font-weight:
+normal'><i style='mso-bidi-font-style:normal'><span style='font-size:12.0pt;
+mso-bidi-font-size:10.0pt'>Marinated Asparagus<o:p></o:p></span></i></b></p>
+                  <p class=MsoNormal align=center style='text-align:center'><b style='mso-bidi-font-weight:
+normal'><i style='mso-bidi-font-style:normal'><span style='font-size:12.0pt;
+mso-bidi-font-size:10.0pt'>Humus with Pita<o:p></o:p></span></i></b></p>
+                  <p class=MsoNormal align=center style='text-align:center'><b style='mso-bidi-font-weight:
+normal'><i style='mso-bidi-font-style:normal'><span style='font-size:12.0pt;
+mso-bidi-font-size:10.0pt'>Marinated Vegetable and Tofu Kabobs</span></i></b></p>
+                  <p class=MsoNormal><![if !supportEmptyParas]>&nbsp;<![endif]><o:p></o:p></p>
+                  <h2>THAI</h2>
+                  <p class=MsoNormal align=center style='text-align:center'><b style='mso-bidi-font-weight:
+normal'><i style='mso-bidi-font-style:normal'><span style='font-size:12.0pt;
+mso-bidi-font-size:10.0pt'><![if !supportEmptyParas]>&nbsp;<![endif]><o:p></o:p></span></i></b></p>
+                  <p class=MsoNormal align=center style='text-align:center'><b style='mso-bidi-font-weight:
+normal'><i style='mso-bidi-font-style:normal'><span style='font-size:12.0pt;
+mso-bidi-font-size:10.0pt'>Thai Cabbage Salad<o:p></o:p></span></i></b></p>
+                  <p class=MsoNormal align=center style='text-align:center'><b style='mso-bidi-font-weight:
+normal'><i style='mso-bidi-font-style:normal'><span style='font-size:12.0pt;
+mso-bidi-font-size:10.0pt'>Thai Coconut Soup</span></i></b><i style='mso-bidi-font-style:
+normal'><span style='font-size:12.0pt;mso-bidi-font-size:10.0pt'> with Tofu and 
+                    Vegetables<o:p></o:p></span></i></p>
+                  <p class=MsoNormal align=center style='text-align:center'><b style='mso-bidi-font-weight:
+normal'><i style='mso-bidi-font-style:normal'><span style='font-size:12.0pt;
+mso-bidi-font-size:10.0pt'>Fried Tofu</span></i></b><i style='mso-bidi-font-style:
+normal'><span style='font-size:12.0pt;mso-bidi-font-size:10.0pt'> with Peanut 
+                    Dipping Sauce<o:p></o:p></span></i></p>
+                  <h1 align=center style='text-align:center'><i style='mso-bidi-font-style:normal'><span
+style='font-size:12.0pt;mso-bidi-font-size:10.0pt'>Steamed White Rice with Sauteed 
+                    Asian Vegetables<o:p></o:p></span></i></h1>
+                  <p class=MsoNormal align=center style='text-align:center'><b style='mso-bidi-font-weight:
+normal'><i style='mso-bidi-font-style:normal'><span style='font-size:12.0pt;
+mso-bidi-font-size:10.0pt'>Tofu and Vegetable Curry</span></i></b><i
+style='mso-bidi-font-style:normal'><span style='font-size:12.0pt;mso-bidi-font-size:
+10.0pt'> with Green, Red, or Yellow Curry</span></i></p>
+                </div>
+ 
+ 
+ 
+ 
+</td>
+            </tr>
+          </table>
+        </center>
+      </td>
+    </tr>
+    <tr bgcolor="#FFFFFF">
+      <td height="39">
+        <div align="center"><img src="navwt.jpg" width="504" height="36" border="0" usemap="#map1"></div>
+      </td>
+    </tr>
+    <tr> 
+      <td>&nbsp;</td>
+    </tr>
+  </table>
+</center>
+<map name="map1">
+  <area shape="rect" coords="370,12,447,27" href="contact.htm">
+  <area shape="rect" coords="314,11,366,28" href="events.htm">
+  <area shape="rect" coords="241,11,308,26" href="weddings.htm">
+  <area shape="rect" coords="184,11,238,29" href="menus.htm">
+  <area shape="rect" coords="112,10,176,28" href="aboutus.htm">
+  <area shape="rect" coords="54,6,106,29" href="home.htm">
+</map>
+</body>
+</html>
+
+
+-----------------------------------------------------------------------------------------------------
+
+
+WEDDING MENUS
+
+
+Since 1985 we have provided delicious meals, courteous, attentive
+service and an unforgettable positive experience for you and your guests. Our goal is total satisfaction for our clients. We strive to make your “DREAM DAY” a reality.
+
+
+In the following pages you will find tried and true menus that have served brides, grooms, families and friends with overwhelming success. These menus are not "set in stone” but rather a guide to a successful meal. Customized menus and adjustments can easily be made to fulfill your taste and budget.
+
+
+Through color matching, your ideas and vision, paired with our experience, you will see what your tables will look like long before your guest will be commenting, “What a beautiful reception this is!”	We strive at this art form with every wedding reception we do.
+
+
+
+
+We strive to make your day stress-free. This is a day to enjoy, relax and celebrate! Rayna’s Gourmet catering will exceed your expectations and insure that your special day is one that you and your guest will enjoy and remember for a life time!
+
+
+We look forward to serving you, your guests, family and friends on one of the most important day of your lives. On behalf of our chefs, serving staff,
+& event captains, we thank you for considering Rayna’s Gourmet Catering and would like to congratulate you on your upcoming Wedding.
+ 
+
+In order to help you understand what we provide, we have included the following list.
+
+
+All menus come with the following:
+
+
+*Fresh flower arrangement for the buffet
+
+
+*Coffee bar with flavored creamers, and sugars
+
+
+*Real coffee cups
+
+
+*Cutting and serving the cake
+
+
+*Lemonade and ice tea dispensers
+
+
+*Pouring the Toasts
+
+
+*No corkage fee
+ 
+CABERNET SAUVIGNON MENU #1
+
+
+
+
+
+LIGHT HORS D’OEURES
+Fresh Fruit Platter
+Proscuittto Wrapped Melon (passed) Hot Stuffed Mushrooms (passed)
+
+
+DINNER
+Fresh Berry Salad with Caramelized Walnuts, Sliced, Red Onion, Crumbled
+Blue Cheese and Raspberry Vinaigrette
+Pesto Tortellini Salad
+Blanched Asparagus Vinaigrette
+Buttered Baby Carrots
+Grilled Onion, Pepper and Mushroom Display with Balsamic and Roasted
+Garlic
+Vegetarian Spinach Lasagna Alfredo Roasted Rosemary red Potatoes Ravioli Marinara - Sautéed on Site
+Chicken with Sun Dried Tomato Sauce
+
+
+CARVING STATION New York Steak with Aus Jus Sausage Stuffed Pork Loin With Orange Sauce
+Fresh Rolls and Whipped Butter
+
+
+
+$31.95 per person plus gratuity and sales tax
+
+
+
+If you would like to add
+Sauté garlic shrimp by attendant $3.25per person
+ 
+THE ZINFANDEL MENU #2
+
+
+
+
+
+LIGHT HORSD’OEURES
+
+Spicy Chicken Drumettes Sweet and Sour Meatballs Anti-Pasta Platter
+
+
+DINNER
+
+Garden Salad with Three Dressings
+Pasta Salad
+Fresh Fruit
+Grilled Seasonal Vegetables
+Rayna’s Deviled Eggs
+Baked Potatoes with Assorted Toppings House Made Baked Beans Country B-B-Q Pork Ribs
+Tangy B-B-Q Chicken
+Tri-Tip with Horseradish and Carver
+Rolls and Butter
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+$25.50 per person plus gratuity and sales tax
+ 
+
+
+THE CHIANTI MENU #3
+
+
+
+
+
+
+
+LIGHT HORS D’OEUVRES
+
+Italian Torte
+Meatballs in Creamy White Wine and Dill Sauce
+Anit-Pasta platter
+
+
+DINNER
+
+Italian Green Salad
+
+
+Tomato and Fresh Mozzarella Salad
+
+
+Pasta Salad
+Grilled Vegetable Medley Display with Pesto Dipping Sauce
+
+
+Asparagus Mushroom Pasta Alfredo
+
+
+Rich Meat sauce Rigatoni
+
+
+Angel Hair Pasta with Olive oil, Kamalatta Olives, Fresh Tomatoes and
+Basil
+
+
+Fresh rolls and Garlic Bread
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+$24.95 per person, plus gratuity and sales tax
+ 
+
+
+
+
+
+THE MERLOT MENU  #4
+
+
+
+
+
+
+LIGHT HORS D’OEUVRES
+Italian Torte with roasted Peppers and Pesto
+Honey Sesame Drumettes
+Artichoke Leaves with Garlic Cream cheese
+Topped with Bay Shrimp
+
+
+DINNER
+
+Poached Apple Walnut salad with Champagne Vinaigrette
+Tomatoes, Cucumber and Feta Salad
+
+
+Anti-Pasta Tray
+
+
+Fresh Fruit Display
+
+
+Buttery Yukon Gold Mashed Potatoes Sautéed Green Beans with Diced Onion and Carrots Vegetarian Pasta with Rich Marinara
+CARVING STATION
+
+Red Wine Marinated Tri-Tip Roast
+Mustard Glazed Ham
+Rolls and Butter
+
+
+
+
+
+
+
+
+
+
+$27.95 per person plus gratuity and sales tax
+ 
+
+
+
+THE PINOT NOIR  MENU  #5
+
+
+
+
+
+
+LIGHT HORS D’OEUVRES
+
+Italian Turnovers Cucumber Cups with Crab Cocktail Hot Stuffed Mushrooms
+
+
+DINNER
+
+Grilled Chicken Caesar Salad
+
+
+Cherry Tomato Mozzarella Salad
+
+
+Fresh Fruit Display with Raspberry Yogurt Dip Choice of Garlic Mashed Potatoes or Rice Pilaf Assorted Roasted Vegetable Platter
+Tortellini Sautéed On-Site with Both Marinara and Alfredo Sauce
+
+
+CARVING STATION (Your choice of two)
+
+
+Roasted Baron of Beef with Horseradish
+Turkey with Cranberry
+Ham with Sweet Mustard
+Fresh Rolls with Butter
+
+
+
+
+
+$26.95 per person plus gratuity and sales tax
+ 
+PINOT GRIGIO MENU #6
+
+
+
+
+
+LIGHT HORS D’OEURES
+
+
+Italian torte
+Meatballs
+Anti pasta display
+
+
+DINNER
+
+
+Mixed green salad
+Caesar salad Bow tie pasta salad Roasted vegetable display
+Choice of roasted red potatoes or
+Garlic mashed potatoes
+Penne pasta marinara
+
+
+Choice of an Italian chicken dishes:
+
+
+1. Chicken Parmesan stuffed with mozzarella cheese
+
+
+2. Pesto chicken with red pepper sauce
+
+
+3. Chicken Marsala Stuffed with rice and Jack cheese topped with mushroom Marsala
+
+
+$23.50 per person plus gratuity and sales tax
+ 
+THE VALPOLICELLA MENU #7
+
+
+
+
+LIGHT HORS D’OEUVRES
+
+Extravagant Anti-Pasta Table
+Includes Marinated Mushroom, Pepperonchini, Carpachio, Roasted Garlic
+Cloves, Assorted Stuffed Olives, Cured Italian Meats, Roasted Sweet Bell
+Peppers and All Imported Cheese Selection
+
+
+DINNER
+
+European Greens topped with Thinly Sliced Red Onions, Sweet Bell
+Peppers, Crumbled Blue Cheese, and Fresh Berries
+Oil and Vinegar on the Side
+
+
+Tortellini Salad with Cherry Tomatoes, Pesto Dressing and Pine Nuts
+Roasted Vegetable Display with Olive Oil, Balsamic Vinegar and Garlic
+
+
+Fried Polenta Rounds with Melted Parmesan Three Mushroom Risotto with Asparagus Cheese Ravioli Marinara
+Chicken Saltimbocca
+
+
+CARVING STATION
+
+Prime Rib with Auj Jus and Horseradish
+
+
+Pork Loin Stuffed with Italian Sausage and Orange Sauce
+
+
+
+
+
+
+$40.00 per person plus gratuity and sales tax
+ 
+NAPA PICNIC MENU  #8
+
+
+
+
+LIGHT HORS D’OEUVRES
+
+Assorted Cheese Platter
+Bruschetta
+Baby New Potatoes with Bacon, Topped with Green Onion
+
+
+MAIN BUFFET
+
+Tossed Green Salad with All the Trimmings
+Two Dressings on the Side
+
+
+Greek Salad
+
+
+Fresh seasonal salad Vegetable Platter with pesto Dip Rayna’s Signature Deviled Eggs
+Fresh Deli Sliced Ham, Roasted Turkey, Dry Salami and Roast Beef
+
+
+Sweet Chicken Salad
+
+
+Tuna Salad and Egg Salad
+
+
+Variety of Sliced Cheese and Assortment of Breads
+Mayonnaise, Mustard, Pepperonchini, Tomatoes and Bell Peppers
+
+
+
+
+
+
+$17.25 per person plus gratuity and sales tax
+ 
+THE SURFS UP MENU  #9
+
+
+
+
+Light Hors D’oeuvres
+
+Sweet and Sour Meatballs
+Fresh Fruit Display with Pina Colada Dip
+Caribbean Chicken Wings
+
+
+Menus Come With the Following:
+
+Tropical Salad Tossed with Maui Onion and raspberry Dressing
+Asian noodle Salad Roasted Veggies Fruit Ambrosia
+Luau Sweet Potatoes
+Rice Pilaf
+Hawaiian Rolls and Butter
+
+
+Selection #1
+Grilled teriyaki Chicken with Pineapple and Peppers
+$23.95 per person plus gratuity and sales tax
+Selection #2
+Grilled Chicken with Fresh Mango Fruit Salsa
+$24.95 per person plus gratuity and sales tax
+Selection #3
+Teriyaki Tri-Tip with Carver & One of Our Chicken Dishes Listed Above
+$27.50 per person plus gratuity and sales tax
+Selection #4
+Beef and Chicken Kabobs
+(Can be grilled on site for events of 150 guests or more)
+$27.95 per person plus gratuity and sales tax
+ADD ON OPTIONS:
+* Whole Pit Roasted Pig Available at Market Price A.Q.
+
+
+*Sautéed garlic shrimp with sweet chili sauce $3.25per person
+ 
+VEGETARIAN DINNER BUFFEET#10
+
+
+
+
+LITE HORS D’EOUVRES
+
+
+Anti-pasta Platter
+(Includes Seven Different Cheeses and Marinated Pickled Vegetables)
+
+
+bruchetta with Fococia and Crustinis
+
+
+Salads
+Italian tossed Green Salad with roasted Garlic Dressing
+
+
+Angel Hair Pasta Salad
+
+
+Fresh tomato, Cucumber and Onions with feta and Balsamic Vinaigrette
+
+
+Fresh Fruit Display with Raspberry Dipping Sauce
+
+
+Entrée
+
+
+Italian tower (Grilled Breaded Eggplant with Pesto, Marinara and mozzarella)
+
+
+Lasagna with Sautéed Vegetables in a Marinara Sauce
+
+
+Tortellini Primavera
+
+
+Garlic French Bread
+Lemonade and Coffee
+
+
+
+
+
+
+
+
+
+$22.95 per person plus gratuity and sale tax
+ 
+
+ROSA RETA  MEXICAN BUFFET #11
+
+
+
+
+
+
+
+LIGHT HORS D’OEUVRES
+
+
+Chips and Salsa Bar
+Gourmet Cheese Tray with Crackers
+
+
+DINNER
+
+
+Mexican Garden Salad with All the Trimmings
+
+
+Southwest Pasta Salad
+
+
+Assorted Fruit Platter
+
+
+Grilled Vegetables with Dipping Sauce
+
+
+Chicken Enchiladas Beef Enchiladas Vegetarian Enchiladas Homemade Refried Beans Spanish Rice
+Plus Lemonade, Coffee and Iced Tea
+
+
+
+
+
+
+$22.50 per person plus gratuity and sales tax
+ 
+
+FIESTA MENU  #12
+
+
+
+
+
+
+LIGHT HORS D’OEUVRES
+
+
+Chips, Salsa and Guacamole Spicy Chicken Wings Black Bean Dip
+
+
+
+
+DINNER
+
+
+Garden Salad with All the Trimmings Southwestern Pasta Salad Assorted Fruit Display Homemade Refried Beans Spanish Rice
+Cheese Enchiladas
+
+
+Beef, Chicken Fajitas sautéed on-site with
+Marinated Peppers and Onions,
+
+
+Flour Tortillas, Sour Cream, Shredded Cheese
+And Three Different Salsas
+
+
+$24.95 per person, plus gratuity and sales tax
+ 
+THE CHAMPAGNE STATION MENU #13
+
+
+LIGHT HORS D’OEUVVRES
+
+Imported Cheese Selection Artichoke Swiss Cheese Fondue Herbed and Tomato Fococia Bread Smoked Salmon Crustinis (passed)
+
+
+Salad station
+
+Caesar Salad Fresh Tossed in Front of Your Guests
+Pesto Pasta salad
+European Greens topped with Thinly Sliced Red Onions, Sweet Bell Peppers, Crumbled
+Blue Cheese, and Fresh Berries
+Vine Ripe Tomatoes, Fresh Mozzarella, Chopped Basil and Balsamic Vinegar Salad
+
+
+POTATO STATION
+
+Roasted Garlic Mashed Potatoes
+Mushroom Gravy, Crumbled Bacon, Sour Cream, Shredded Cheese, Steamed Broccoli, Chopped Green Onion, Whipped Butter
+
+
+VEGETABLE STATION
+
+Roasted Vegetable Display with Assorted Dips
+Blanched Asparagus
+Baked Creamed Pearl Onions with Bread Crumbs
+
+
+ENTRÉE STATION
+
+Chicken Cordon Bleu
+
+Garlic Crusted Prime Rib with Auj Sauce and Horseradish
+
+Honey Glazed Ham with Sweet Mustard
+
+$45.95 per person, plus gratuity and sales tax
+
+
+Add Small Chocolate Fountain Station for $6.00 per person Including Fresh Fruit, Marshmallows, Pretzels, Cookies, Cherries and Assorted Toppings
+ 
+THE CHARDONNAY MENU #14
+
+
+LIGHT HORS D’OEUVRES
+Anti-Pasta (Includes Seven Different Cheeses and Grilled Vegetables)
+
+
+Cucumber Cups with Shrimp Cocktail
+
+
+Baked Brie with Crackers
+
+
+Meatballs in White Wine and Creamy Dill Sauce
+
+
+DINNER
+
+Caesar Salad
+
+
+Fresh Fruit Platter
+
+
+Assorted Roasted Vegetables Platter with Roasted Garlic Aioli
+
+
+Cheese Broccoli Mashes Potatoes
+
+
+
+Marinated Mushrooms Pasta Primavera Alfredo Chicken Marsala
+
+CARVING STATION
+
+Rosemary Pork Loin with Reduced Orange Sauce
+
+Garlic and Peppered Prime Rib with Auj Jus and Horseradish Sauce
+
+Fresh rolls and Whipped Butter
+
+
+$28.95 per person plus gratuity and sales tax
+ 
+
+
+Sit Down Dinners   #15
+
+All entrees are served with a salad of choice,
+Butler serves Light Hors d'oeuvres of hot stuffed mushrooms and 1 canapé of choice, fresh grilled vegetables, French rolls, Fococia bread, and coffee, lemonade. China, silverware, linens water glasses and wine glasses plus add $5.75 per person.
+
+Appetizer
+*Family style anti pasta $2.00 per person
+* Prawns with cocktail sauce $5.00 per person
+*Crab mousse $4.50 per person
+
+Salad (Choose one)
+*Caesar salad with romaine lettuce, fresh garlic croutons, parmesan cheese and
+traditional dressing.
+*Raspberry salad with spring greens, raspberries, caramelized walnuts, blue cheese crumbles, and raspberry cream dressing.
+*Traditional spinach salad with fresh spinach, tomatoes, eggs, bacon, onions, croutons, and honey mustard dressing.
+
+Entrees (Choose one)
+*Rayna’s Surf and Turf ~ Succulent prawns served with a thick 8oz. Rib Eye Steak
+Market price per person plus gratuity and sales tax.
+*Filet Mignon with your choice of stuffed chicken breast ~ a juicy filet accompanied by one of our specialty stuffed chicken breast and served with garlic mashed potatoes.
+$33.95 per person plus gratuity and sales tax.
+*Prime Rib ~ generous portion served with baked potatoes with all the fixings and horseradish.
+$28.95 per person plus gratuity and sales tax.
+*Stuffed Pork Loin ~ topped with a rosemary glaze and served with roasted potatoes and green beans almandine.
+*Lasagna Pinwheel ~ Sautéed vegetable and three cheese, wrapped in a lasagna noodles, topped with marinara sauce.
+23.95 Per person plus gratuity and sales tax.
+*Chicken Saltimbocca ~ boneless chicken breast stuffed and breaded with prosciutto and Monterey Jack cheese.
+$24.95 per person plus gratuity and sales tax.
+*Italian Towers ~marinated and grilled eggplants stacked with roasted rep peppers, pesto, on a bed of roasted garlic polenta
+$23.95 per person plus gratuity and sales tax.
+ 
+ADD UPGRADES
+
+
+
+
+*Colored dining overlay prices vary
+(45 day advanced ordering required)
+
+
+*Chocolate fountain ($400.00 rental fee for medium size,
+$850.00 for large fountain) $4.75 per person for a wide range of dippers and toppings
+
+
+*Desert bar can be used to replace a cake
+Or supplement a smaller one
+
+
+*Beer, wine and champagne services: you bring us the product and we chill, transport and serve. This includes wine glasses, ice, cocktail napkins and tubs and Bartender. It’s $200.00 for five hour receptions, $100.00 per hour for each additional hour.
+Never a corkage fee!!!
+
+
+*Soda bar- ten kinds of soda $1.25 per person
+
+
+“THE CHINA PACKAGE”
+
+
+Includes the following: China dinner plate, water glass, two forks, knife, spoon, 90x90 linen table cloth, linen napkin, (linens available in white, black and ivory) champagne flute and cake plate
+$5.75 per person
+
+
+-----------------------------------------------------------------------------------------------------------------
+
+
+
+THE ONE FORK COCKTAIL MENU
+PICK ANY FIVE COLD ITEMS
+
+
+1. Free Form Anti-Pasta Station of Assorted Cheese, Gourmet Olives, Grilled Vegetables, Roasted Garlic Cloves, Marinated Vegetables and Dry Cured Meats
+
+2. Cherry Tomato, Basil and Fresh Mozzarella Kabobs with Balsamic, Olive Oil and
+Garlic Dip
+
+3. Tomato Fococia squares with Caramelized Onions
+
+4. Cucumber Cups with Spicy Shrimp Cocktail
+
+5. Teriyaki Chicken Skewers with Thai Peanut Sauce
+
+6. Italian Torte Layers of Pesto, Herb Cream Cheese and
+Roasted Sweet Peppers with Crustinis
+
+7. Fresh Cut Fruit Platter: Watermelon, Honeydew, Cantaloupe, Pineapple and strawberries and Raspberry Yogurt Dip
+
+8. Puffs Filled with Chicken Salad and Orange Marmalade
+
+9. Asparagus Tips with Peppered Cream Cheese Wrapped in Roast Beef
+
+10. Panini garlic chips with Bruchetta, Tapas, and Hummus
+
+11. Grapes Rolled in Blue Cheese and Crushed Walnuts
+
+12. Baby New Potatoes with Garlic Cream Cheese, Crumbled Bacon and Chives
+
+13. Smoked Salmon Crustinis with Capers, Dill and Lemon Zest
+
+14. Crostinis Di Polenta with assorted toppers and sauces
+
+Page 1 of 3
+ 
+
+
+PICK 3 OF ANY HOT ITEMS
+
+14. Meatballs in Creamy White Wine and Dill Sauce
+
+15. Swiss cheese Fondue with Assorted Breads for Dipping
+
+16. Honey Drizzled Spicy Chicken Drumettes
+
+17. Mashed Potato with Assorted Toppings: Shredded Cheese, Bacon, Mushroom Gravy, Diced
+Onions, Sour Cream and Chives
+
+18. Hot Stuffed Mushroom with Three Types of Cheese, Diced Onion and Bacon (passed)
+
+19. Spanikopita: Baked Fillo Dough Filled with Spinach and Feta Cheese (passed)
+
+20. Baked Brie with Apricot Jam, Slivered Almonds and Crustinis
+
+21. Mini assorted Flat: Meat or Vegetarian
+
+22. Italian Puff Turnovers (Caramelized onions, peppers, and spicy Italian sausage)
+
+23. Rumaki (bacon wrap dates stuff with pecans)
+
+24. Miniature Tacos with 2 salsa, guacamole, grated cheese, and sour cream
+
+25. Grill cheese panini with a tomato bisque
+
+26.  Mini homemade calzones
+
+27. Grilled Italian Sausages
+
+This Menu comes with Linens and Skirting for the Buffet.
+Six inch Glass Plates, Floral Centerpiece for Buffet, Uniformed Attendants
+Lemonade and Gourmet Coffee Station
+
+
+$18.95 per person plus gratuity and sales tax
+
+
+
+
+If you would like to add more to the one fork menu please look at the following:
+
+
+
+
+
+
+
+
+2of 3
+ 
+
+
+
+ADD DESSERT  (Choose Three)
+
+
+Chocolate Dipped Strawberries
+Dessert Squares
+Cream Puffs
+Mini Glazed Fruit Tarts
+Rich Chocolate Brownies
+White Chocolate Dipped Fortune Cookies
+$2.75 per person plus gratuity and sales tax
+
+
+ADD CARVING STATION  (Choose Two)
+
+
+Roasted Pork Tenderloin with Rosemary and Orange Sauce
+Baron Beef with Horseradish Whip
+Mustard Glazed Ham
+Roasted Turkey with Cranberry Sauce
+Rolls and Butter
+$3.50 per person plus gratuity and sales tax
+
+
+ADD SAUTE STATION (Choose One)
+
+
+Tortellini with Marinara and Alfredo
+Shrimp in White Wine, Garlic and Lemon
+$3.25 per person plus gratuity and sales tax
+
+
+Raynas speciality:
+
+
+Lollypop lamb chops
+Miniature Beef Wellingtons
+Crab Cakes with a zesty red pepper sauce
+
+$4.50 per person plus gratuity and sales tax
+
+
+*This menu is customized for
+Two hour to three hour event*
+
+
+3 OF 3
+ 
+
+
+ITALIAN COCKTAIL BUFFET
+
+
+
+
+
+Antipasto Display: Gourmet Olives, Prosciutto, Assortment of gourmet cheese, Italian
+
+Dry Salami, Roasted Garlic Cloves, and marinated vegetables
+
+
+
+
+Crostinis Di Polenta with assortment Bruchetta
+
+
+
+
+Italian tort with Roasted Red Peppers, Pesto and Italian Cream Cheese
+
+
+
+
+Cheese Tortellini Skewers with Italian Salsa Grilled Italian Sweet and Spicy Italian Sausage Fried Artichoke Hearts with Lemon Caper Sauce
+3 Kinds of Flat bread
+
+
+
+
+Italian turnover caramelized onions and peppers with variety of cheeses wrap in fillo dough
+ 
+Strolling Cocktail Buffet & Stations
+
+
+
+LIGHT HORS D’OEUVRES
+
+Fruit Display with Fruit Dip Baked Brie with crostinis Artichoke Leaves with Capers Italian Tort with Breads
+Lampas with chili red pepper sauce
+
+Caviar Tort
+
+
+
+BUTLER SERVED Hot Stuffed Mushrooms Spanikopita
+Rumaki
+
+
+
+CHEESE AND ANTI-PASTA STATION Baked Brie Served with Apricot Preserves Shaved Almonds Assorted Marinated, Roasted Vegetables
+Sliced Salami and Prosciutto Smoked Cheddar Cheddar
+Swiss Pepper Jack Fontina
+Cheese Fondue
+
+Crustinis and Assorted Breads
+ 
+CHILLED MAIN STATION Jumbo Shrimp with Three Sauces Smoke Salmon Canapés
+Mexican Caesar salad in a corn tortilla cup Grilled Vegetables with Roasted Garlic and Pesto Aioli Cucumber Canapés with crab and spicy cocktail sauce
+
+
+CARVING STATION
+
+Dry Rubbed Prime with Carver Horseradish and Rolls Pork loin with Italian Sausage with Spicy Orange sauce Honey Baked Ham with 2 kinds of Mustard
+
+
+MEDITERRANEAN STATION
+
+Mediterranean Salsa
+
+Chicken, Vegetarian and Beef Gyros Sautee by an Attendant
+
+Hummus and Pita Bread
+
+
+
+ITALIAN STATION
+
+Flat bread
+
+Tomato, basil and mozzarella Skewers
+
+Sautee Penne Pasta by an attendant with marinara, Alfredo and bolognas sauce
+
+
+
+MARDIA STATION
+
+Catfish Canapés Jalapeno, Cheese, Corn Bread Cajun Seafood Gumbo
+Dirty Rice
+
+Please pick 5 stations of your choice for the Strolling Cocktail Buffet
+
+$45.95 per person plus gratuity and sales tax
+ 
+
+
+WEDDING COCKTAIL MENU
+
+Chilled Prawns
+With Three Sauces
+
+Baked Brie
+With Apricot Glaze and a Slivered Almonds
+
+Fresh Fruit Skewers
+With Whip Berry yogurt dip
+
+Fresh Bruchetta on sliced baguette
+
+Vegetable Spring Rolls
+Severed with chili soy dip
+
+Roasted Vegetable Display
+
+Meatballs with Creamy Dill and White wine sauce
+
+California Avocado Torte
+Served with Garlic Crustinis
+
+Italian Turnovers Smoked Salmon Canapés Dolmades
+Chicken Skewers with satay sauce
+
+Quiche
+
+Honey Baked Ham and Red Wine and Garlic Tri Tip
+Brown Mustard and Horseradish
+
+Fresh Breads and Butter
+$29.50 per person plus gratuity and sales tax
