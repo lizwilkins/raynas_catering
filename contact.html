@@ -11,87 +11,98 @@
  
 <body>
   <div id="page">
-    <div id="banner">
-      <div id="logo">
-        <img src="images/wtcontact.jpg" width="507" height="116" />
+    <div id="page_center">
+      <div id="banner">
+        <div id="logo">
+          <img src="images/wtcontact.jpg" width="507" height="116" />
+        </div>
+        <div id="navbar">
+          <a href="index.html">Home</a> &nbsp;  &nbsp;  &nbsp; 
+          <a href="menus.html">Menus</a> &nbsp;  &nbsp;  &nbsp; 
+          <a href="events.html">Events</a> &nbsp;  &nbsp;  &nbsp; 
+          <a href="weddings.html">Weddings</a> &nbsp;  &nbsp;  &nbsp; 
+          <a href="about.html">About Us</a> &nbsp;  &nbsp;  &nbsp; 
+          <a href="contact.html">Contact Us</a>
+        </div>      
       </div>
-      <div id="navbar">
-        <a href="index.html">Home</a> &nbsp;  &nbsp;  &nbsp; 
-        <a href="menus.html">Menus</a> &nbsp;  &nbsp;  &nbsp; 
-        <a href="events.html">Events</a> &nbsp;  &nbsp;  &nbsp; 
-        <a href="weddings.html">Weddings</a> &nbsp;  &nbsp;  &nbsp; 
-        <a href="about.html">About Us</a> &nbsp;  &nbsp;  &nbsp; 
-        <a href="contact.html">Contact Us</a>
-      </div>      
-    </div>
-    <div id="content">
-      <!-- <p><img src="images/contpic.jpg" width="198" height="253" /></p> -->
-      <div id="text_box_form">
-        <form action="http://www.omsoft.com/cgi-bin/formmail.pl" method="post">
-          <font color="#FFFFFF"> 
-          <input type="hidden" name="RECIPIENT" value="raynasgourmetcatering@yahoo.com">
-          <input type="hidden" name="SUBJECT" value="Raynas Catering Request">
-          <input type="hidden" name="FROM" value="raynasgourmetcatering@yahoo.com">
-          <input type="hidden" name="REDIRECT" value="http://www.raynasgourmetcatering.com/thanks.htm">
-          </font> 
-          <p><font size="-1" color="#FFFFFF"><b><font color="#660066">How 
-            Many Guests are Attending:</font> 
-            <input type="text" name="guests" size="4">
-            </b><br>
-            </font></p>
-          <p><font size="-1" color="#FFFFFF"> <b><font color="#660066">If 
-            you have a location, where is it?:</font></b> 
-            <input type="text" name="eventlocation">
-            <br>
-            <br>
-            </font></p>
-          <p><font size="-1" color="#FFFFFF"><b><font color="#660066">Comments</font></b></font><font color="#660066"><b>:</b></font> 
-            <font size="-1" color="#660066">The more details the better, 
-            such as time of wedding, etc.</font></p>
-          <p> <font color="#FFFFFF"> 
-            <textarea name="comments" cols="35" rows="6"></textarea>
-            </font></p>
-          <p><font color="#FFFFFF"><b><font color="#660066">Wedding Date:</font></b> 
-            &nbsp;&nbsp;&nbsp; 
-            <input type="text" name="weddate" size="40">
-            <b></b></font></p>
-          <p><font color="#FFFFFF"><b><font color="#660066">Name: </font></b> 
-            &nbsp;&nbsp;&nbsp; 
-            <input type="text" name="aname" size="40">
-            <b><br>
-            <br>
-            <font color="#660066">Address:</font> </b> 
-            <input type="text" name="address" size="40">
-            <br>
-            <br>
-            <b><font color="#660066">City:</font> &nbsp;</b>&nbsp;&nbsp;&nbsp;&nbsp; 
-            <input type="text" name="city" size="20">
-            <b> <font color="#660066">State/Prov:</font></b><font color="#660066">&nbsp;</font>&nbsp; 
-            <input type="text" name="state" size="4">
-            &nbsp;&nbsp;</font></p>
-          <p><font color="#FFFFFF"> <b><font color="#660066">Zip/Post Code:</font> 
-            </b> 
-            <input type="text" name="zipcode" size="12">
-            <br>
-            <br>
-            <b><font color="#660066">Phone:</font></b> 
-            <input type="text" name="phone" size="20">
-            <br>
-            <br>
-            <b><font color="#660066">E-mail:</font> </b> </font> <font color="#FFFFFF"> 
-            <input type="text" name="email" size="25">
-            </font></p>
-          <p>&nbsp;</p>
-          <p> 
-            <input type="submit" name="Submit" value="Submit">
-            &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; 
-            <input type="reset" name="Reset" value="Reset">
-          </p>
-        </form>
+      <div id="content">
+        <p><img src="images/contpic.jpg" width="198" height="253" /></p>
+        <div id="text_box_form">
+
+            <form id="contact_form" method= "post" action="http://www.omsoft.com/cgi-bin/formmail.pl">
+              <div class="myRow">
+                <input id="myName" name="myName" placeholder="Name" size="41" type="text" required="required" />
+              </div>
+              <div class="myRow">
+                <input id="myEmail" name="myEmail" placeholder="Email" size="41" type="text" required="required" />
+              </div>
+              <div class="myRow">
+                <input id="myEvent" name="myEvent" placeholder="Event Type" size="41" required="required" />
+              </div>
+              <div class="myRow">
+                <input id="myDate" name="myDate" placeholder="Event Date" size="41" required="required" />
+              </div>
+              <div class="myRow">
+                <input id="myVenue" name="myVenue" placeholder="Event Venue" size="41" required="required" />
+              </div>
+              <div class="myRow">
+                <input id="myNumberGuests" name="myNumberGuests" placeholder="Number of Guests" size="41" required="required" />
+              </div>
+              <br />
+              <div class="mySubmit">
+                <input type="submit" value="Submit" /> &nbsp; &nbsp; &nbsp; <input type="reset" value="Reset" />
+              </div>
+            </form>
+
+<!-- 
+          <form action="http://www.omsoft.com/cgi-bin/formmail.pl" method="post">
+            <font color="#FFFFFF"> 
+            <input type="hidden" name="RECIPIENT" value="raynasgourmetcatering@yahoo.com">
+            <input type="hidden" name="SUBJECT" value="Raynas Catering Request">
+            <input type="hidden" name="FROM" value="raynasgourmetcatering@yahoo.com">
+            <input type="hidden" name="REDIRECT" value="http://www.raynasgourmetcatering.com/thanks.htm">
+            </font> 
+            <p><font size="-1" color="#FFFFFF"><b><font color="#660066">How 
+              Many Guests are Attending:</font> 
+              <input type="text" name="guests" size="4">
+              </b><br>
+              </font></p>
+            <p><font size="-1" color="#FFFFFF"> <b><font color="#660066">If 
+              you have a location, where is it?:</font></b> 
+              <input type="text" name="eventlocation">
+              <br>
+              </font></p>
+            <p><font size="-1" color="#FFFFFF"><b><font color="#660066">Comments</font></b></font><font color="#660066"><b>:</b></font> 
+              <font size="-1" color="#660066">The more details the better, 
+              such as time of wedding, etc.</font></p>
+            <p> <font color="#FFFFFF"> 
+              <textarea name="comments" cols="35" rows="6"></textarea>
+              </font></p>
+            <p><font color="#FFFFFF"><b><font color="#660066">Wedding Date:</font></b> 
+               
+              <input type="text" name="weddate" size="40">
+              <b></b></font></p>
+            <p><font color="#FFFFFF"><b><font color="#660066">Name: </font></b> 
+               
+              <input type="text" name="aname" size="40">
+              <b><font color="#660066">Phone:</font></b> 
+              <input type="text" name="phone" size="20">
+              <br>
+              <br>
+              <b><font color="#660066">E-mail:</font> </b> </font> <font color="#FFFFFF"> 
+              <input type="text" name="email" size="25">
+              </font></p>
+            <p></p>
+            <p> 
+              <input type="submit" name="Submit" value="Submit">
+              <input type="reset" name="Reset" value="Reset">
+            </p>
+          </form> -->
+        </div>
       </div>
-    </div>
-    <div id="footer">
-      (916) 383-7533  &nbsp;  &nbsp;  &nbsp;    &nbsp;  5665 Power Inn Rd  Sacramento, CA 95824  &nbsp;  &nbsp;  &nbsp;    &nbsp;  raynasgourmetcatering@yahoo.com
+   <!--    <div id="footer">
+        (916) 383-7533  &nbsp;  &nbsp;  &nbsp;    &nbsp;  5665 Power Inn Rd  Sacramento, CA 95824  &nbsp;  &nbsp;  &nbsp;    &nbsp;  raynasgourmetcatering@yahoo.com
+      </div> -->
     </div>
   </div>
 </body>
