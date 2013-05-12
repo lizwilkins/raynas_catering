@@ -1,6 +1,6 @@
 body                {color: #000000; background-color: #ffffff;
 					 font-style: italic; font-size: 15px;
-					 text-align: center;}
+					 text-align: center; font-family: "Didot", serif;}
 
 a:link 				{color: #000000; text-decoration: none;}
 a:visited 			{color: #911113; text-decoration: none;}
@@ -9,7 +9,7 @@ a:active 			{color: #6600ff; text-decoration: none;}
 
 #page               {position: absolute; 
                      left: 50%; 
-                     height: 100%; width: 960px; 
+                     height: 640px; width: 960px; 
                      padding: 0px; margin-left: -480px;
                  	 background-image: url(images/mauve_taupe_plaster.gif);}
                     
