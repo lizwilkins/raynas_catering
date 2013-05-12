@@ -1,4 +1,4 @@
-body                {color: #000000; background-color: #ffffff;
+body                {color: #000000; background-image: url(images/mauve_taupe_plaster.gif);
 					 font-style: italic; font-size: 15px;
 					 text-align: center; font-family: "Didot", serif;}
 
@@ -10,8 +10,7 @@ a:active 			{color: #6600ff; text-decoration: none;}
 #page               {position: absolute; 
                      left: 50%; 
                      height: 640px; width: 960px; 
-                     padding: 0px; margin-left: -480px;
-                 	 background-image: url(images/mauve_taupe_plaster.gif);}
+                     padding: 0px; margin-left: -480px;}
                     
 #page_center        {position: absolute; 
                      top: 3%; left: 15%; 
