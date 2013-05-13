@@ -14,8 +14,8 @@ a:active 			{color: #6600ff; text-decoration: none;}
                  	 background-image: url(images/mauve_taupe_plaster.gif);}
                     
 #page_center        {position: absolute; 
-                     top: 3%; left: 15%; 
-                     height: 94%; width: 70%; 
+                     top: 15px; left: 15%; 
+                     height: 610px; width: 70%; 
                      padding: 0px; margin: 0px;
                      background-color: #ffffff;}
 
@@ -33,7 +33,7 @@ a:active 			{color: #6600ff; text-decoration: none;}
                    
 #content            {position: absolute;
 					 top: 155px; left: 10%;
-					 width: 80%; height: 100%;
+					 width: 80%; height: 455px;
                      padding: 0px; margin: 0px;
                      overflow: auto;}
 
@@ -59,7 +59,7 @@ a:active 			{color: #6600ff; text-decoration: none;}
                     text-align: left; width: 45%;}
 
 #text_box_right     {padding: 0px; margin: 10px;
-                    text-align: right; width: 45%;
+                    text-align: left; width: 45%;
                     float: right;}
 
 ul          {text-align: center; list-style-type: none;}
