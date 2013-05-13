@@ -8,9 +8,8 @@ a:hover 			{color: #686868; text-decoration: none;}
 a:active 			{color: #6600ff; text-decoration: none;}
 
 #page               {position: absolute; 
-                     left: 50%; 
-                     height: 640px; width: 960px; 
-                     padding: 0px; margin-left: -480px;
+                     height: 640px; width: 100%; 
+                     padding: 0px; 
                  	 background-image: url(images/mauve_taupe_plaster.gif);}
                     
 #page_center        {position: absolute; 
