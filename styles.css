@@ -34,7 +34,8 @@ a:active 			{color: #6600ff; text-decoration: none;}
 #content            {position: absolute;
 					 top: 155px; left: 10%;
 					 width: 80%; height: 100%;
-                     padding: 0px; margin: 0px;}
+                     padding: 0px; margin: 0px;
+                     overflow: auto;}
 
 /*#text_box_tall     {position: absolute;
 					 padding: 0px; margin: 0px;
@@ -61,9 +62,11 @@ a:active 			{color: #6600ff; text-decoration: none;}
                     text-align: right; width: 45%;
                     float: right;}
 
-.menu_table			{font-size: 15px;}
+ul          {text-align: center; list-style-type: none;}
 
-.menu_table td      {width: 33%; padding: 2px; text-align: left; }
+/*.menu_table			{font-size: 15px;}
+
+.menu_table td      {width: 33%; padding: 2px; text-align: left; }*/
 
 /*#footer             {position:absolute;
 					 top: 600px; left: 0px; 
